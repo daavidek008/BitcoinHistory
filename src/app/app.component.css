@@ -1,0 +1,29 @@
+.mat-card-header-text{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+mat-card{
+  padding: 0px;
+}
+
+mat-card-content{
+  padding: 24px;
+}
+
+mat-card-header{
+  background: #d1d8e0;
+}
+
+mat-card.graf{
+  margin-bottom: 30px;
+}
+
+.container{
+  margin-top: 50px;
+  background: white;
+}
+
+p {
+  font-size: x-small;
+}
